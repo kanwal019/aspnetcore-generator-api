@@ -1,0 +1,1 @@
+﻿docker run --rm -it -v %cd%:C:\api -p 49999:80 mcr.microsoft.com/dotnet/core/aspnet:3.1
